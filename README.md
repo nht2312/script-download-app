@@ -71,10 +71,10 @@ Nếu máy tính của bạn vừa cài lại Windows, chưa có trình duyệt 
 - Nhấn tổ hợp phím `Windows + R`, nhập `powershell`, nhấn `Ctrl + Shift + Enter` để chạy với quyền admin.
 
 ### 2. Tải file zip của repo từ GitHub về máy
-Chạy lệnh sau trong PowerShell:
+Chạy lệnh sau trong PowerShell/Terminal:
 
 ```
-Invoke-WebRequest -Uri "https://github.com/nht2312/script-download-app/archive/refs/heads/main.zip" -OutFile "script-download-app.zip"
+Invoke-WebRequest -Uri "https://github.com/nht2312/script-download-app/archive/refs/heads/master.zip" -OutFile "script-download-app.zip"
 ```
 
 ### 3. Giải nén file zip
