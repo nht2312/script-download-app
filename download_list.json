@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Google Chrome",
+    "url": "https://dl.google.com/chrome/install/latest/chrome_installer.exe",
+    "output": "chrome_installer.exe"
+  },
+  {
+    "name": "VSCode",
+    "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+    "output": "vscode_installer.exe"
+  },
+  {
+    "name": "7zip",
+    "url": "https://www.7-zip.org/a/7z2409-x64.exe",
+    "output": "7zip_installer.exe"
+  },
+  {
+    "name": "Unikey",
+    "url": "https://www.unikey.org/assets/release/unikey46RC2-230919-win64.zip",
+    "output": "unikey.zip"
+  },
+  {
+    "name": "Cursor v0.48",
+    "url": "https://downloads.cursor.com/production/61e99179e4080fecf9d8b92c6e2e3e00fbfb53f4/win32/x64/user-setup/CursorUserSetup-x64-0.48.9.exe",
+    "output": "cursor_installer.exe"
+  },
+  {
+    "name": "Windsurf 1.7.3",
+    "url": "https://windsurf-stable.codeiumdata.com/win32-x64-user/stable/71eeb18eeed7897bea630fcaba7d37c49c78b05e/WindsurfUserSetup-x64-1.7.3.exe",
+    "output": "windsurf_installer.exe"
+  },
+  {
+    "name": "Trae",
+    "url": "https://lf-cdn.trae.ai/obj/trae-ai-sg/pkg/app/releases/stable/1.0.12519/win32/Trae-Setup-x64.exe",
+    "output": "trae_installer.exe"
+  },
+  {
+    "name": "Git",
+    "url": "https://github.com/git-for-windows/git/releases/download/v2.49.0.windows.1/Git-2.49.0-64-bit.exe",
+    "output": "git_installer.exe"
+  }
+]
